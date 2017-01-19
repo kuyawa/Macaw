@@ -1,3 +1,5 @@
+![Macaw](https://raw.githubusercontent.com/kuyawa/Macaw/master/Macaw/macaw.png)
+
 # MACAW - Syntax Highlighter in Swift
 
 **Macaw** is the simplest syntax highlighter you can find in Swift. 
